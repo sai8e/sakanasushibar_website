@@ -6,7 +6,7 @@ import "./HeroSection.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video class="video" autoPlay loop muted playsinline>
+      <video class="background_video" playsinline loop muted autoPlay preload="auto" poster="images/background_pic.png">
         <source src="/videos/Yosuke_v2_compressed.mp4" type="video/mp4" />
       </video>
 
