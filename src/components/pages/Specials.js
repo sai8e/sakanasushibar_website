@@ -122,14 +122,14 @@ export default function Specials() {
           
         </div>
 
-//         <div className="happy_hour_specials">
-//           <h1 className="menu_title">HAPPY HOUR SPECIALS</h1>
-//           <h2>Buy 2 Specialty sushi rolls & 2 drinks.</h2>
-//           <h2>Get 1 Specialty Roll FREE!</h2>
-//           <h4 class="italic">Free roll equal or lesser value.</h4>
-//           <h4 class="italic">*Valid Monday & Tuesday Dinner Only 5:00PM - 9:00PM</h4>
-//           <h4 class="italic">Limited Time Only. Subject to change without notice.</h4>
-//         </div>
+         {/*<div className="happy_hour_specials">
+          <h1 className="menu_title">HAPPY HOUR SPECIALS</h1>
+          <h2>Buy 2 Specialty sushi rolls & 2 drinks.</h2>
+          <h2>Get 1 Specialty Roll FREE!</h2>
+          <h4 class="italic">Free roll equal or lesser value.</h4>
+          <h4 class="italic">*Valid Monday & Tuesday Dinner Only 5:00PM - 9:00PM</h4>
+          <h4 class="italic">Limited Time Only. Subject to change without notice.</h4>
+        </div>*/}
 
       </div>
       <Footer />
