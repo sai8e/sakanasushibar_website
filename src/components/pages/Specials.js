@@ -13,13 +13,13 @@ export default function Specials() {
         <div className="lunch_specials" id="lunch_specials">
           <h1 className="menu_title">LUNCH SPECIALS</h1>
           <h2>Choose any 2 Maki Sushi Rolls.</h2>
-          <h2>ONLY <span className="orange">$9.56!</span></h2>
+          <h2>ONLY <span className="orange">$12!</span></h2>
           <h4 class="italic">Includes Free order of Miso Soup</h4>
           <h4 class="italic">Available Monday - Friday 12:00 Noon - 3:00 PM</h4>
           <h4 class="italic">-----------------------------------------------------------------------------------------</h4>
 
           <h2>Choose from the following Specialty Rolls.</h2>
-          <h2>ONLY <span className="orange">$7.99 each!</span></h2>
+          <h2>ONLY <span className="orange">$8.99 each!</span></h2>
           <p className="lunch_special_rolls">
             <span className="orange">Playboy Roll - </span>
             {
