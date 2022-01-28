@@ -5,7 +5,7 @@ export default [
     tag: "dinner_combinations",
     name: "Grilled Chicken Teriyaki & Shrimp & Vegetable Tempura",
     description: "",
-    price: "$13.99",
+    price: "$14.99",
   },
   {
     id: "26",
@@ -13,7 +13,7 @@ export default [
     tag: "dinner_combinations",
     name: "Sakana Steak & Shrimp Tempura & Vegetable Tempura",
     description: "",
-    price: "$15.99",
+    price: "$16.99",
   },
   {
     id: "27",
@@ -21,7 +21,7 @@ export default [
     tag: "dinner_combinations",
     name: "Salmon Teriyaki & Shrimp & Vegetable Tempura",
     description: "",
-    price: "$15.99",
+    price: "$16.99",
   },
   {
     id: "28",
@@ -29,6 +29,6 @@ export default [
     tag: "dinner_combinations",
     name: "Pork Katsu & Shrimp & Vegetable Tempura",
     description: "",
-    price: "$12.99",
+    price: "$14.99",
   },
 ];
