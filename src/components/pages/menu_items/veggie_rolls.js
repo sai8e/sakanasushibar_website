@@ -5,7 +5,7 @@ export default [
     tag: "veggie_rolls",
     name: "Veggie Tempura Roll",
     description: "",
-    price: "$5.79",
+    price: "$6.99",
   },
   {
     id: "83",
@@ -13,7 +13,7 @@ export default [
     tag: "veggie_rolls",
     name: "Avacado Roll",
     description: "",
-    price: "$3.79",
+    price: "$4.59",
   },
   {
     id: "84",
@@ -21,7 +21,7 @@ export default [
     tag: "veggie_rolls",
     name: "Kappa Maki",
     description: "(Cucumber Roll)",
-    price: "$3.79",
+    price: "$4.59",
   },
   {
     id: "85",
@@ -29,7 +29,7 @@ export default [
     tag: "veggie_rolls",
     name: "Asparagus Roll",
     description: "",
-    price: "$3.79",
+    price: "$4.59",
   },
   {
     id: "85",
@@ -37,7 +37,7 @@ export default [
     tag: "veggie_rolls",
     name: "Summer Roll",
     description: "Asparagus, pickled carrots, green mix, avocado sprouts & cucumber wrapped in soy paper with eel sauce",
-    price: "$7.25",
+    price: "$8.29",
   },
   {
     id: "86",
@@ -45,6 +45,6 @@ export default [
     tag: "veggie_rolls",
     name: "Ichiban Roll",
     description: "Grilled veggies in soy paper topped with eel sauce",
-    price: "$7.25",
+    price: "$8.29",
   },
 ];
