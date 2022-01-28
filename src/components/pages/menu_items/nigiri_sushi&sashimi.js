@@ -5,7 +5,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Ama Ebi",
     description: "Sweet Shrimp",
-    price: "Nigiri $6.95",
+    price: "Nigiri $7.59",
   },
   {
     id: "93",
@@ -13,7 +13,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Ebi",
     description: "Shrimp",
-    price: "Nigiri $4.95/Sashimi $9.95",
+    price: "Nigiri $4.99/Sashimi $9.99",
   },
   {
     id: "94",
@@ -21,7 +21,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Escolar",
     description: "Escolar",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "95",
@@ -29,7 +29,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Hamachi",
     description: "Yellow Tail",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "96",
@@ -37,7 +37,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Hirame",
     description: "Halibut",
-    price: "Nigiri $6.95/Sashimi $14.95",
+    price: "Nigiri $7.59/Sashimi $15.99",
   },
   {
     id: "97",
@@ -45,7 +45,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Hotategai",
     description: "Japanese Scallop",
-    price: "Nigiri $6.95/Sashimi $14.95",
+    price: "Nigiri $7.59/Sashimi $15.99",
   },
   {
     id: "98",
@@ -53,7 +53,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Ika",
     description: "Squid",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $7.59/Sashimi $15.99",
   },
   {
     id: "99",
@@ -61,7 +61,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Ikura",
     description: "Salmon Egg",
-    price: "Nigiri $6.95",
+    price: "Nigiri $7.99",
   },
   {
     id: "100",
@@ -69,7 +69,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Kani",
     description: "Snow Crab",
-    price: "Nigiri $6.95",
+    price: "Nigiri $6.99",
   },
   {
     id: "101",
@@ -77,7 +77,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Kanpachi",
     description: "Amber Jack",
-    price: "market price & availability",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "101",
@@ -85,7 +85,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Kurodai",
     description: "Black sea bream",
-    price: "market price & availability",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "102",
@@ -93,7 +93,15 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Maguro",
     description: "Tuna",
-    price: "Nigiri $6.95/Sashimi $14.95",
+    price: "Nigiri $7.99/Sashimi $15.99",
+  },
+    {
+    id: "102",
+    imageName: "img4.jpg",
+    tag: "nigiri&sashimi_combo",
+    name: "Saba",
+    description: "Japanese Mackerel",
+    price: "Nigiri $4.99/Sashimi $9.99",
   },
   {
     id: "103",
@@ -101,7 +109,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Sake",
     description: "Salmon",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "104",
@@ -109,7 +117,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Smoked Sake",
     description: "Smoked Salmon",
-    price: "Nigiri $5.75",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "105",
@@ -117,15 +125,15 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Shiro Maguro",
     description: "Albacore Tuna",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "106",
     imageName: "img4.jpg",
     tag: "nigiri&sashimi_combo",
-    name: "Tai",
-    description: "Red Snapper",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    name: "Suzuki",
+    description: "Seabass",
+    price: "Nigiri $6.99/Sashimi $13.99",
   },
   {
     id: "107",
@@ -133,7 +141,15 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Tako",
     description: "Octopus",
-    price: "Nigiri $5.75/Sashimi $12.95",
+    price: "Nigiri $7.99/Sashimi $15.99",
+  },
+  {
+    id: "107",
+    imageName: "img2.jpg",
+    tag: "nigiri&sashimi_combo",
+    name: "Tamago",
+    description: "Egg Omelet",
+    price: "Nigiri $4.59/Sashimi $9.99",
   },
   {
     id: "108",
@@ -141,7 +157,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Tobiko",
     description: "Flying Fish Egg",
-    price: "Nigiri $4.95",
+    price: "Nigiri $7.99",
   },
   {
     id: "109",
@@ -149,7 +165,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Unagi",
     description: "Fresh Water Eel",
-    price: "Nigiri $5.75/Sashimi $13.95",
+    price: "Nigiri $7.99/Sashimi $15.99",
   },
   {
     id: "110",
