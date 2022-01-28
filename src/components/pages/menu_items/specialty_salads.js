@@ -6,7 +6,7 @@ export default [
     name: "House Salads",
     description:
       "Mixed baby greens, cucumber, cherry tomato and orange served with Miso Vinaigrette",
-    price: "$5.79",
+    price: "$6.29",
   },
   {
     id: "15",
@@ -15,7 +15,7 @@ export default [
     name: "Side Salad",
     description:
       "Fresh lettuce, cherry tomato, orange and crunches served with Honey Ginger Dressing",
-    price: "$2.59",
+    price: "$2.99",
   },
   {
     id: "16",
@@ -24,7 +24,7 @@ export default [
     name: "Grilled Chicken Salad",
     description:
       "Grilled Chicken Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$10.99",
+    price: "$11.99",
   },
   {
     id: "17",
@@ -33,7 +33,7 @@ export default [
     name: "Steak Salad",
     description:
       "Tender Steak Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$10.99",
+    price: "$11.99",
   },
   {
     id: "18",
@@ -42,7 +42,7 @@ export default [
     name: "White Tuna Salad",
     description:
       "Seared and seasoned Albacore Tuna with mixed green salad, cucumber, avocado",
-    price: "$10.99",
+    price: "$11.99",
   },
   {
     id: "19",
@@ -51,7 +51,7 @@ export default [
     name: "Grilled Salmon Salad",
     description:
       "Grilled Salmon Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$10.99",
+    price: "$11.99",
   },
   {
     id: "20",
@@ -67,7 +67,7 @@ export default [
     tag: "specialty salads",
     name: "Ika Salad",
     description: "Sesame marinated mixed squids",
-    price: "$5.59",
+    price: "$5.99",
   },
   {
     id: "22",
@@ -75,7 +75,7 @@ export default [
     tag: "specialty salads",
     name: "Seaweed and Ika Salad",
     description: "Sesame marinated mixed seaweed and squid",
-    price: "$5.29",
+    price: "$5.99",
   },
   {
     id: "23",
@@ -92,6 +92,6 @@ export default [
     tag: "specialty salads",
     name: "Special",
     description: "Add crab or octopus or both ($2 each)",
-    price: "($2 each)",
+    price: "($3.59 each)",
   },
 ];
