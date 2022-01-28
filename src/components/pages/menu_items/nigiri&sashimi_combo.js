@@ -5,7 +5,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Sushi Combo Plate",
     description: "6 pieces of Nigiri with California Roll or Tekka Maki (tuna roll)",
-    price: "$17.95",
+    price: "$19.99",
   },
   {
     id: "88",
@@ -13,7 +13,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Small Sashimi Combo",
     description: "(9 pieces) (side rice available upon request)",
-    price: "$18.95",
+    price: "$19.99",
   },
   {
     id: "89",
@@ -21,7 +21,7 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Large Sashimi Combo",
     description: "(15 pieces) (side rice available upon request)",
-    price: "$25.75",
+    price: "$26.99",
   },
   {
     id: "90",
@@ -29,6 +29,6 @@ export default [
     tag: "nigiri&sashimi_combo",
     name: "Chirashi",
     description: "(12 pieces of sashimi sets on the rice)",
-    price: "$21.75",
+    price: "$22.99",
   },
 ];
