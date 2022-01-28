@@ -5,7 +5,7 @@ export default [
     tag: "lunch_entrees",
     name: "Chicken Teriyaki Donburi",
     description: "Grilled Chicken Teriyaki with Veggie Tempura over Rice",
-    price: "$8.95",
+    price: "$10.99",
   },
   {
     id: "102",
@@ -13,7 +13,7 @@ export default [
     tag: "lunch_entrees",
     name: "Beef Teriyaki Donburi",
     description: "Grilled Steak Teriyaki with Veggie Tempura over Rice",
-    price: "$8.95",
+    price: "$10.99",
   },
   {
     id: "103",
@@ -21,7 +21,7 @@ export default [
     tag: "lunch_entrees",
     name: "Salmon Teriyaki Donburi",
     description: "Grilled Salmon Teriyaki with Veggie Tempura over Rice",
-    price: "$8.95",
+    price: "$10.99",
   },
   {
     id: "104",
@@ -29,7 +29,7 @@ export default [
     tag: "lunch_entrees",
     name: "Tendon",
     description: "4 piece of Shrimp and Veggie Tempura over Rice",
-    price: "$8.95",
+    price: "$10.99",
   },
   {
     id: "105",
@@ -37,7 +37,7 @@ export default [
     tag: "lunch_entrees",
     name: "Chicken Salad",
     description: "Grilled Chicken Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$8.79",
+    price: "$10.99",
   },
   {
     id: "106",
@@ -45,7 +45,7 @@ export default [
     tag: "lunch_entrees",
     name: "Steak Salad",
     description: "Tender Steak Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$8.79",
+    price: "$10.99",
   },
   {
     id: "107",
@@ -53,7 +53,7 @@ export default [
     tag: "lunch_entrees",
     name: "Salmon Salad",
     description: "Grilled Salmon Teriyaki with mixed greens, cucumber, tomato & orange with Vinaigrette",
-    price: "$8.79",
+    price: "$10.99",
   },
   {
     id: "108",
@@ -61,7 +61,7 @@ export default [
     tag: "lunch_entrees",
     name: "White Tuna Salad",
     description: "Seared and seasoned Albacore Tuna with mixed green salad, cucumber, avocado",
-    price: "$8.79",
+    price: "$10.99",
   },
   {
     id: "109",
@@ -69,6 +69,6 @@ export default [
     tag: "lunch_entrees",
     name: "Bento Box",
     description: "Served with miso soup or side salad, 4 piece of California roll & steamed rice.",
-    price: "$11.95",
+    price: "$12.99",
   },
 ];
