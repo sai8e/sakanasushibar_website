@@ -5,7 +5,7 @@ export default [
     tag: "maki_sushi",
     name: "Tekka Maki",
     description: "(Tuna roll)",
-    price: "$5.99",
+    price: "$7.99",
   },
   {
     id: "71",
@@ -13,7 +13,7 @@ export default [
     tag: "maki_sushi",
     name: "Sake Maki",
     description: "(Salmon roll)",
-    price: "$5.99",
+    price: "$6.99",
   },
   {
     id: "72",
@@ -21,7 +21,7 @@ export default [
     tag: "maki_sushi",
     name: "Unagi Maki",
     description: "(Eel roll)",
-    price: "$6.99",
+    price: "$7.99",
   },
   {
     id: "74",
@@ -29,7 +29,7 @@ export default [
     tag: "maki_sushi",
     name: "Negihama",
     description: "(Yellowtail roll)",
-    price: "$5.99",
+    price: "$6.99",
   },
   {
     id: "75",
@@ -37,7 +37,7 @@ export default [
     tag: "maki_sushi",
     name: "California Roll",
     description: "Crab, cucumber &avocado",
-    price: "$6.29",
+    price: "$7.59",
   },
   {
     id: "76",
@@ -45,7 +45,7 @@ export default [
     tag: "maki_sushi",
     name: "Spicy Tuna Roll",
     description: "",
-    price: "$6.99",
+    price: "$7.59",
   },
   {
     id: "77",
@@ -53,7 +53,7 @@ export default [
     tag: "maki_sushi",
     name: "Spicy Hamachi Roll",
     description: "",
-    price: "$6.59",
+    price: "$6.99",
   },
   {
     id: "78",
@@ -61,7 +61,7 @@ export default [
     tag: "maki_sushi",
     name: "Spicy Salmon Roll",
     description: "",
-    price: "$6.99",
+    price: "$7.59",
   },
   {
     id: "79",
@@ -69,7 +69,7 @@ export default [
     tag: "maki_sushi",
     name: "Spicy Scallop Roll",
     description: "",
-    price: "$6.99",
+    price: "$7.59",
   },
   {
     id: "80",
@@ -77,7 +77,7 @@ export default [
     tag: "maki_sushi",
     name: "Spicy Tako Roll",
     description: "(Spicy octopus roll)",
-    price: "$6.99",
+    price: "$7.59",
   },
   {
     id: "81",
@@ -85,6 +85,6 @@ export default [
     tag: "maki_sushi",
     name: "Shrimp Tempura Roll",
     description: "",
-    price: "$7.99",
+    price: "$8.29",
   },
 ];
