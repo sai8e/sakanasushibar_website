@@ -12,7 +12,7 @@ import maki_sushi from "./menu_items/maki_sushi";
 import veggie_rolls from "./menu_items/veggie_rolls";
 import nigiri_sashimi_combo from "./menu_items/nigiri&sashimi_combo";
 import nigiri_sushi_sashimi from "./menu_items/nigiri_sushi&sashimi";
-import lunch_appetizers from "./menu_items/lunch_appetizers";
+// import lunch_appetizers from "./menu_items/lunch_appetizers";
 import lunch_entrees from "./menu_items/lunch_entrees";
 
 export default function Menu() {
@@ -131,11 +131,11 @@ export default function Menu() {
           LUNCH MENU
           <br />
           <br />
-          Appetizers
+            {/*Appetizers*/}
         </h1>
-        <div className="menu_container">
+        {/*<div className="menu_container">
           <Menu_item filteredImages={lunch_appetizers} />
-        </div>
+        </div>*/}
         <h1 className="menu_title" id="specialty_salads">
           Entrees
         </h1>
