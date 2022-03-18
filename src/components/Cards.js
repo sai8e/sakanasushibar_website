@@ -9,24 +9,27 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem src="images/menu.jpeg" text="MENU" path="/menu" />
-            <CardItem
-              src="images/happyHours.jpeg"
-              text="HAPPY HOUR SPECIALS"
-              path="/specials"
-            />
+           
             <CardItem
               src="images/lunchSpecials.jpeg"
               text="LUNCH SPECIALS"
               path="/specials"
             />
-          </ul>
-          <ul className="cards__items">
-            <CardItem src="images/gallery.png " text="GALLERY" path="/gallery" />
             <CardItem
               src="images/hoursAndLocation.jpeg"
               text="HOURS & LOCATION"
               path="/contact"
             />
+            
+          </ul>
+          <ul className="cards__items">
+            <CardItem src="images/gallery.png " text="GALLERY" path="/gallery" />
+        
+             {/* <CardItem
+              src="images/happyHours.jpeg"
+              text="HAPPY HOUR SPECIALS"
+              path="/specials"
+            /> */}
             <li className="cards__item">
               <div className="cards__item__info">
                 <h5 className="cards__item__text">
