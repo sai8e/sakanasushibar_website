@@ -5,7 +5,7 @@ export default [
     tag: "specialty_rolls",
     name: "Sakana Roll",
     description:
-      "Spicy tuna crunch, cucumber topped with escolar, avocado, cilantro, tobiko, green onion and spicy mayo",
+      "Spicy tuna, cucumber topped with escolar, avocado, cilantro, tobiko, green onion and spicy mayo",
     price: "$12.99",
   },
   {
@@ -14,7 +14,7 @@ export default [
     tag: "specialty_rolls",
     name: "Angel Roll",
     description:
-      "Spicy salmon crunch, cucumber topped with seared tuna, shrimp, avocado, wasabi mayo, eel sauce, tempura crunch & tobiko",
+      "Spicy salmon, cucumber topped with seared tuna, shrimp, avocado, wasabi mayo, eel sauce, tempura crunch & tobiko",
     price: "$13.59",
   },
   {
@@ -23,7 +23,7 @@ export default [
     tag: "specialty_rolls",
     name: "Awesome Roll",
     description:
-      "Spicy salmon crunch, cucumber, avocado topped with tuna, yellowtail, shrimp, roasted tomatoes, eel, spicy mayo & tobiko",
+      "Spicy salmon, cucumber, avocado topped with tuna, yellowtail, shrimp, roasted tomatoes, eel, spicy mayo & tobiko",
     price: "$13.59",
   },
   {
@@ -157,7 +157,7 @@ export default [
     tag: "specialty_rolls",
     name: "Caterpillar Roll",
     description:
-      "Eel and cucumber covered with avocado, eel sauce and wasabi tobiko (flying fish egg)",
+      "Eel and cucumber covered with avocado, eel sauce and tobiko (flying fish egg)",
     price: "$11.99",
   },
   {
@@ -201,7 +201,7 @@ export default [
     tag: "specialty_rolls",
     name: "Pink Flamingo",
     description:
-      "Shrimp tempura, spicy crab, asparagus wrapped in soy paper and topped with roasted tomatoes and eel sauce",
+      "Shrimp tempura, spicy crab, asparagus wrapped in soy paper and topped with eel sauce",
     price: "$9.99",
   },
   {
@@ -246,7 +246,7 @@ export default [
     tag: "specialty_rolls",
     name: "Dynasty Roll",
     description:
-      "Spicy tuna, avocado, cucumber topped with yellow tail, eel sauce & pinch of togarashi spice",
+      "Spicy tuna, avocado, cucumber topped with yellow tail, eel sauce & sesame seeds",
     price: "$11.99",
   },
   {
